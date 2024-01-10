@@ -1,4 +1,4 @@
-Month of January
+# Month of January
 
 **Week 1: January 12**
 Recap:
