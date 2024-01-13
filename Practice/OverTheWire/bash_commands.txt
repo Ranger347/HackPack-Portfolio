@@ -1,0 +1,9 @@
+for i in {00..14}; do mkdir level_${i}; done
+
+for d in $(find ./level* -type d); do cd ${d}; touch readme.md; cd ..; done
+
+for d in $(find ./level* -type d); do rm -rf ${d}; done
+
+for d in $(find ./*level -type d); do cd ${d}; touch readme.md; cd ..; done
+
+for d in $(find ./*level -type d); do cd ${d}; rm readme.md; cd ..; done

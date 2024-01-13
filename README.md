@@ -13,6 +13,7 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 
 - [CTF Writeups](#ctf-writeups)
 - [Weekly Journals](#weekly-journals)
+- [Practice]()
 
 ## CTF Writeups
 
@@ -25,6 +26,12 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 2. [February 2024](./Weekly%20Journal/Spring%202024/February.md) - Web Exploitation and Binary Exploitation/Rev
 3. [March 2024](./Weekly%20Journal/Spring%202024/March.md) - Binary Exploitation/Rev cont. and Digital Forensics
 4. [April 2024](./Weekly%20Journal/Spring%202024/April.md) - Network Security/Cryptography
+
+## Practice
+
+1. [OverTheWire](./Practice/OverTheWire)
+2. ...
+
 
 ## Thank You for Visiting
 
