@@ -13,7 +13,7 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 
 - [CTF Writeups](#ctf-writeups)
 - [Weekly Journals](#weekly-journals)
-- [Practice]()
+- [Practice](#practice)
 
 ## CTF Writeups
 
@@ -36,3 +36,4 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 ## Thank You for Visiting
 
 Feel free to explore my writeups and journals. Happy hacking!
+

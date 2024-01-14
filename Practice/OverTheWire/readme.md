@@ -1,6 +1,0 @@
-# OverTheWire Practice
-
-## Prompt
-
-## Solution
-
