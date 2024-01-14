@@ -1,11 +1,12 @@
 # Month of January
 
 ## Week 1: January 12
-Recap:
+
+### Recap:
 
 Today was the first meeting back from the winter break. Gabriela asked the members what kind of things they wanted to learn in the coming semester. We played [OverTheWire](https://overthewire.org) for the remainder of the time. A few of the challenges I solved can be found [here](/Practice/OverTheWire).
 
-What I learned:
+### What I learned:
 
 I learned about the uniq and sort commands on the Linux terminal.
 
