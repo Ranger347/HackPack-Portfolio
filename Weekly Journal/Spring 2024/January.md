@@ -9,7 +9,7 @@ What I learned:
 
 I learned about the uniq and sort commands on the Linux terminal.
 
-I learned about how to write quick for loops in bash. File can be found [here](/Practice/bash_commands.txt).
+I learned about how to write quick for loops in bash. File can be found [here](/Practice/OverTheWire/bash_commands.txt).
 
 ## Week 2: January 19
 Recap:
