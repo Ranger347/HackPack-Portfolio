@@ -1,8 +1,8 @@
 # OverTheWire Practice
 
 ## Prompt
-```
 
+```text
 Bandit Level 1 → Level 2
 Level Goal
 
@@ -18,10 +18,8 @@ Helpful Reading Material
     Advanced Bash-scripting Guide - Chapter 3 - Special Characters
 ```
 
-
 ## Solution
 
 After logging into bandit1 and looking at the files in the directory with `ls` there is a - file.
 
 Apparently you cannot `cat` a file with that name. After looking at how to read that file with the command `cat < -` (basically reading in the contents of the file into cat) the password prints: `rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi`.
-

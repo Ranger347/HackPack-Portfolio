@@ -1,3 +1,5 @@
+# Template
+
 **Within each folder that showcases a CTF, you may copy this template into a file. The file name can be of the specific challenge you want to talk about. You don't have to follow this template perfectly! Feel free to add pictures, resources/tools you used, links, etc.**
 
 **Date:** [Date of the CTF]  

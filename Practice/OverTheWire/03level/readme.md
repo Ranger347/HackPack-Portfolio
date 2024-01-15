@@ -1,8 +1,8 @@
 # OverTheWire Practice
 
 ## Prompt
-```
 
+```text
 Bandit Level 3 → Level 4
 Level Goal
 
@@ -20,5 +20,3 @@ After logging into the server and listing the files, there is an `inhere` direct
 To list hidden files (or files that start with a . on Linux) you can run a `ls -la` command to list all the files and their permissions. That results with a `.hidden` file being discovered. Cat the file with `cat .hidden` and the password is revealed.
 
 The password is: `2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe`
-
-

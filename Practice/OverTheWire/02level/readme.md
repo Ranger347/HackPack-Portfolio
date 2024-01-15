@@ -1,8 +1,8 @@
 # OverTheWire Practice
 
 ## Prompt
-```
 
+```text
 Bandit Level 2 → Level 3
 Level Goal
 
@@ -17,10 +17,8 @@ Helpful Reading Material
     Google Search for “spaces in filename”
 ```
 
-
 ## Solution
 
 After logging into the server and looking at the files, theres a file called `spaces in the filename`. To cat this file you must escape the spaces. The command is `cat spaces\ in\ the\ filename`. 
 
 Then the password prints: `aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG`
-

@@ -1,7 +1,8 @@
 # OverTheWire Practice
 
 ## Prompt
-```
+
+```text
 Bandit Level 12 → Level 13
 Level Goal
 
@@ -19,11 +20,10 @@ Helpful Reading Material
 
 After logging into the server, there is the same `data.txt` in the home directory. However after catting the file and reading the prompt, I realize it is a ascii file, which is really a hexdump. A hexdump is basically the hex values of a file as a representation of the raw bytes. You can read about it with `man hexdump` and `man xxd`.
 
-According to the prompt, there will be a lot of unzipping compressed files. The first time I completed this problem, I did all the unzipping manually. Each time the files was decompressed into another file, using xxd, base64, gzip, or bzip2. 
+According to the prompt, there will be a lot of unzipping compressed files. The first time I completed this problem, I did all the unzipping manually. Each time the files was decompressed into another file, using xxd, base64, gzip, or bzip2.
 
 The easier way to do this problem is to make a bash script to go through all the decompressions for you. A long time ago I watched a [John Hammond](https://www.youtube.com/@_JohnHammond) video on this exact problem. The [resulting script](./matroyshka.sh) was created based on that video, which can be found [here](https://www.youtube.com/watch?v=wRSwagjvSqU).
 
-I won't really discuss how I created the script because John would do much better than I would do in a text file (which is why I highly recommend his video). 
+I won't really discuss how I created the script because John would do much better than I would do in a text file (which is why I highly recommend his video).
 
 However after running the script in the tmp directory cat the flag.txt and the resulting password is: `The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw`
-

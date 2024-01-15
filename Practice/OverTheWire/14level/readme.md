@@ -2,8 +2,4 @@
 
 ## Prompt
 
-
-
 ## Solution
-
-

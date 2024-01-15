@@ -1,8 +1,8 @@
 # OverTheWire Practice
 
 ## How to Sign In to the Bandit Server
-```
 
+```text
 Bandit Level 0
 Level Goal
 
@@ -25,8 +25,8 @@ Helpful Reading Material
 When the password prompt appears type in: `bandit0`
 
 ## Prompt
-```
 
+```text
 Bandit Level 0 → Level 1
 Level Goal
 
@@ -35,14 +35,12 @@ The password for the next level is stored in a file called readme located in the
 Commands you may need to solve this level
 
 ls , cd , cat , file , du , find
-
 ```
 
 ## Solution
 
 Once into the machine from the commands [above](#How to Sign In to the Bandit Server),
 
-I ran the command `ls` to list the files in the current directory. 
+I ran the command `ls` to list the files in the current directory.
 
 A readme appeared just like the prompt stated. After running `cat readme` the password was displayed: `NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL`
-

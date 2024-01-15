@@ -32,8 +32,6 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 1. [OverTheWire](./Practice/OverTheWire)
 2. ...
 
-
 ## Thank You for Visiting
 
 Feel free to explore my writeups and journals. Happy hacking!
-
