@@ -1,17 +1,38 @@
 # Month of April
 
-**Week 13: April 5**
-Recap:
-What I learned:
-Links:
+## Week 1: April 5
 
-**Week 14: April 12**
-Recap:
-What I learned:
-Links:
+### Recap
 
-**Week 15: April 19**
+TODO
+
+### What I learned
+
+TODO
+
+## Week 2: April 12
+
+### Recap
+
+TODO
+
+### What I learned
+
+TODO
+
+## Week 3: April 19
+
+### Recap
+
 Last meeting, and officer announcement.
 
-**Week 16: Aprl 26**
-Finals week, no meeting. Good luck, and have a great summer.
+### What I learned
+
+TODO
+
+## Week 4: April 26
+
+### Recap
+
+Finals week, no meeting.
+

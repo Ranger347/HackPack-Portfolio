@@ -1,24 +1,46 @@
 # Month of March
 
-**Week 8: March 1**
-Recap:
-What I learned:
-Links:
+## Week 1: March 1
 
-**Week 9: March 8**
-Recap:
-What I learned:
-Links:
+### Recap
 
-**Week 10: March 15**
-No meeting, I enjoyed spring break!
+TODO
 
-**Week 11: March 22**
-Recap:
-What I learned:
-Links:
+### What I learned
 
-**Week 12: March 29**
-Recap:
-What I learned:
-Links:
+TODO
+
+## Week 2: March 8
+
+### Recap
+
+TODO
+
+### What I learned
+
+TODO
+
+## Week 3: March 15
+
+Nothing this week. Spring break :)
+
+## Week 4: March 22
+
+### Recap
+
+TODO
+
+#### What I learned
+
+TODO
+
+## Week 5: March 29
+
+### Recap
+
+TODO
+
+#### What I learned
+
+TODO
+

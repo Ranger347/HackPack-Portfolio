@@ -1,21 +1,42 @@
-Month of February
+# Month of February
 
-**Week 4: February 2**
-Recap:
-What I learned:
-Links:
+## Week 1: February 2
 
-**Week 5: February 9**
-Recap:
-What I learned:
-Links:
+### Recap
 
-**Week 6: February 16**
-Recap:
-What I learned:
-Links:
+TODO
 
-**Week 7: February 23**
-Recap:
-What I learned:
-Links:
+### What I learned
+
+TODO
+
+## Week 2: February 9
+
+### Recap
+
+TODO
+
+### What I learned
+
+TODO
+
+## Week 3: February 16
+
+### Recap
+
+TODO
+
+#### What I learned
+
+TODO
+
+## Week 4: February 23
+
+### Recap
+
+TODO
+
+#### What I learned
+
+TODO
+
