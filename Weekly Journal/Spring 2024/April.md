@@ -35,4 +35,3 @@ TODO
 ### Recap
 
 Finals week, no meeting.
-
