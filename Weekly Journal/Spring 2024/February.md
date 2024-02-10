@@ -14,11 +14,11 @@ I haven't heard of any of these tools other than burpsuite before today, so it i
 
 ### Recap
 
-TODO
+Today's meeting was an interesting meeting where we learned about how to pick locks. There were multiple different diagrams to learn how locks work and a couple of examples from members who had the appropriate tools and experience. I also downloaded juice-shop, a server with many vulnerabilites to exploit, but I didn't do any of the exploits before we started talking about locks. 
 
 ### What I learned
 
-TODO
+I already had a pretty good understanding of how locks worked from last year when we had the lock picking talk, but it was interesting to see all the different types of locks brought by different members. One of the people who was giving the talk was an apprentice locksmith so it was pretty cool to get to hear how he explained how to pick certain locks and how the locks are different but share similar pin and spring structures.
 
 ## Week 3: February 16
 
