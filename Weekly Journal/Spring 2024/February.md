@@ -14,7 +14,7 @@ I haven't heard of any of these tools other than burpsuite before today, so it i
 
 ### Recap
 
-Today's meeting was an interesting meeting where we learned about how to pick locks. There were multiple different diagrams to learn how locks work and a couple of examples from members who had the appropriate tools and experience. I also downloaded juice-shop, a server with many vulnerabilites to exploit, but I didn't do any of the exploits before we started talking about locks. 
+Today's meeting was an interesting meeting where we learned about how to pick locks. There were multiple different diagrams to learn how locks work and a couple of examples from members who had the appropriate tools and experience. I also downloaded [juice-shop](https://github.com/juice-shop/juice-shop)(which was too big to push), a server with many vulnerabilites to exploit, but I didn't do any of the exploits before we started talking about locks. 
 
 ### What I learned
 
