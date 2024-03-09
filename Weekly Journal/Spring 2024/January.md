@@ -24,6 +24,8 @@ I learned a good bit about python scripting for CTF challenges. I know python sc
 
 I also learned about the `tree` command, which can be used to list all the recursive files in a directory in a tree based structure. After using it for a little while and realizing literally everything has a million directories in it, I also found a `tree -L` which can be used to specify how far down a tree directory to go.  
 
+One final thing is I learned about the `tldr` package. It is similar to manual pages (`man`) but it is more simple and to the point with more easy to read examples of how to use a program. It isn't a replacement to `man` because it doesn't include system calls but it is very useful for bigger programs.
+
 ## Week 3: January 26
 
 ### Recap

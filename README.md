@@ -8,6 +8,7 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 
 - **CTF Writeups:** Detailed walkthroughs of Capture The Flag challenges I've successfully completed.
 - **Weekly Journals:** Dive into my weekly journals where I explore various topics covered by our HackPack club.
+- **Practice:** Different levels of challenges I have used to practice exposing myself to different challenges.
 
 ## Table of Contents
 
@@ -18,7 +19,8 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 ## CTF Writeups
 
 1. [IdekCTF](./Writeups/idekctf.md)
-2. ...
+2. [Bitskrieg](./Writeups/bitskrieg_2024/bitskrieg_2024.md)
+3. ...
 
 ## Weekly Journals
 

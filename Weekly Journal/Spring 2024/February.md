@@ -14,7 +14,7 @@ I haven't heard of any of these tools other than burpsuite before today, so it i
 
 ### Recap
 
-Today's meeting was an interesting meeting where we learned about how to pick locks. There were multiple different diagrams to learn how locks work and a couple of examples from members who had the appropriate tools and experience. I also downloaded [juice-shop](https://github.com/juice-shop/juice-shop)(which was too big to push), a server with many vulnerabilites to exploit, but I didn't do any of the exploits before we started talking about locks.
+Today's meeting was an interesting meeting where we learned about how to pick locks. There were multiple different diagrams to learn how locks work and a couple of examples from members who had the appropriate tools and experience. I also downloaded [juice-shop](https://github.com/juice-shop/juice-shop) (which was too big to push), a server with many vulnerabilites to exploit, but I didn't do any of the exploits before we started talking about locks.
 
 ### What I learned
 
@@ -24,7 +24,7 @@ I already had a pretty good understanding of how locks worked from last year whe
 
 ### Recap
 
-TODO
+Today's meeting was a CTF Day :) We played [bitskrieg ctf](https://ctf.bitskrieg.org/) and I completed some of the challenges. Writeups can be found [here](../../Writeups/bitskrieg_2024/bitskrieg_2024.md).
 
 #### What I learned
 
@@ -38,4 +38,4 @@ There was no meeting today due to the [Cybersecurity Symposium](https://www.nc-p
 
 #### What I learned
 
-I was not able to attend the first day, but I attended the second day and met lots of lovely people. I also learned a little bit about possibly preparing myself for a leadership role in cybersecurity and how to better prepare myself for my career.
+I was not able to attend the first day, but I attended the second day and met lots of lovely people. I also learned a little bit about possibly preparing myself for a leadership role in cybersecurity and how to better prepare myself for my career. Its not always all about the hacking :)
