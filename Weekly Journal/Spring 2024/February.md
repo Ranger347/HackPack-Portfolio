@@ -34,8 +34,8 @@ TODO
 
 ### Recap
 
-TODO
+There was no meeting today due to the [Cybersecurity Symposium](https://www.nc-pace.org/2024symposium).
 
 #### What I learned
 
-TODO
+I was not able to attend the first day, but I attended the second day and met lots of lovely people. I also learned a little bit about possibly preparing myself for a leadership role in cybersecurity and how to better prepare myself for my career.
