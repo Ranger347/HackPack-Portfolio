@@ -1,0 +1,1 @@
+Download and unzip the challenge.zip. Then git log and there is the flag in the commit history.

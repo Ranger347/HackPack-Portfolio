@@ -1,0 +1,1 @@
+Run the connect.sh script with the password "6dd28e9b" and it prints the password

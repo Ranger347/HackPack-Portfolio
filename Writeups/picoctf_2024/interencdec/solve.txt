@@ -1,0 +1,4 @@
+Download the encrypted file, file to find its ascii text, throw it into cyberchef and it gives osme other text. Realize it seems like a rotation cipher because of the {} being in weird places. After putting it into the rotation cipher, it gives the flag.
+
+https://gchq.github.io/CyberChef/
+https://www.dcode.fr/rot-cipher

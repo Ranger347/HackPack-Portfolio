@@ -1,0 +1,1 @@
+Go to the website, to the about page and look at the source code. After seeing the source code there is a very strange notify-true tag in one of the sections with the class=about. This looks weird to me because it isn't normally there. It seems to be some sort of random hashing or algorithm. Throw that into cyberchef and it produces the flag. 

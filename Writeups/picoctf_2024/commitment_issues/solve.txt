@@ -1,0 +1,3 @@
+After extracting challenge.zip, there was a git directory with files in it. Based on the challenge description, I figured there was some sort of going back in time to see if there was a previous commit. Turns out wiht a git log there was a previous commit. Mine was finnicky about going back to see the previous commit with git checkout <commit-id> but after git adding message.txt and then committing again, it let me checkout the previous commit and cat the message with the flag.
+
+https://primer.picoctf.org/#_git_version_control
