@@ -28,18 +28,18 @@ Nothing this week. Spring break :)
 
 ### Recap
 
-TODO
+This week we participated in [picoCTF](https://picoctf.org/). I did some of the challenges and writeups can be found [here](../../Writeups/picoctf_2024/). I also was having trouble with my dual booted kali partition on this computer so some of my writeups were lost but I'm going to recover what I can and redo the things I was able to solve.
 
 #### What I learned
 
-TODO
+I learned some about the git commands and about a random notify-true html parameter inside a section tag.
 
 ## Week 5: March 29
 
 ### Recap
 
-TODO
+We went over picoCTF writups today. I went over my writeup for [Time Machine](../../Writeups/picoctf_2024/time_machine/) in front of the club and was going to go over [WebDecode](../../Writeups/picoctf_2024/webdecode) but we ran out of time.
 
 #### What I learned
 
-TODO
+One of the other members went over the [SansAlpha](../../Writeups/picoctf_2024/sansalpha/) writeup which was pretty cool because it used the ? for the wild card characters, which I haven't used in a long time and sort of forgot about.
