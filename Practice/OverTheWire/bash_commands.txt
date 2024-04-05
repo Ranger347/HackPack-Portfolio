@@ -1,9 +1,14 @@
+// make 14 directories named level_## where ## is a number from 00 to 14 with single digit numbers having a leading 0
 for i in {00..14}; do mkdir level_${i}; done
 
+// make a file called readme.md in each level subdirectory
 for d in $(find ./level* -type d); do cd ${d}; touch readme.md; cd ..; done
 
-for d in $(find ./level* -type d); do rm -rf ${d}; done
-
+// same as above
 for d in $(find ./*level -type d); do cd ${d}; touch readme.md; cd ..; done
 
+// same as above except remove the readme file
 for d in $(find ./*level -type d); do cd ${d}; rm readme.md; cd ..; done
+
+// remove every level directory 
+for d in $(find ./level* -type d); do rm -rf ${d}; done
