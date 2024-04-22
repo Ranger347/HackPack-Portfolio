@@ -18,11 +18,10 @@ This GitHub repository serves as my portfolio, showcasing my journey through the
 
 ## CTF Writeups
 
-1. [IdekCTF](./Writeups/idekctf.md)
-2. [Bitskrieg](./Writeups/bitskrieg_2024/bitskrieg_2024.md)
-3. [PicoCTF 2024](./Writeups/picoctf_2024/picoctf_2024.md)
-4. [HackPackCTF 2024](./Writeups/hackpackctf_2024/hackpackctf_2024.md)
-5. ...
+1. [Bitskrieg](./Writeups/bitskrieg_2024/bitskrieg_2024.md)
+2. [PicoCTF 2024](./Writeups/picoctf_2024/picoctf_2024.md)
+3. [HackPackCTF 2024](./Writeups/hackpackctf_2024/hackpackctf_2024.md)
+4. ...
 
 ## Weekly Journals
 
